@@ -106,11 +106,11 @@
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Automatic Recycler",
+ 	 	 	 	"trans": "Recycleur Automatique",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "Un recycleur entièrement automatisé, capable de recycler les articles jusqu'à leur forme de ferraille de base.",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -209,7 +209,7 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "Allez au quartier général du gang",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -346,17 +346,17 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "go to ${segmentStationName}",
+ 	 	 	 	"trans": "aller à ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	}
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Headquarter",
+ 	 	 	 	"trans": "Quartier Général de Gang",
  	 	 	 	"eng": "Gang Headquarter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Le quartier général pour vous et les membres de votre gang pour planifier et exécuter votre prochaine opération.",
  	 	 	 	"eng": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation"
  	 	 	}
  	 	}
@@ -678,47 +678,47 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you.",
+ 	 	 	 	"trans": "Unité de traitement neuronal (UTN) utilisée dans le commerce. Fourni avec une AI à usage général. \r\n        Vous pouvez l'utiliser pour déployer un robot d'élevage qui fera des donjons pour vous.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Energy Cell",
+ 	 	 	 	"trans": "Cellule d'énergie",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons",
+ 	 	 	 	"trans": "Dispositif de stockage d'énergie portable, il peut être utilisé comme munition consommable pour vos armes spéciales.",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti Matter Charge",
+ 	 	 	 	"trans": "Charge d'anti-matière",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. ",
+ 	 	 	 	"trans": "Générateur d'énergie antimatière de haute technologie, miniaturisé, à usage unique. \r\n        Cet objet produit d'énormes quantités d'énergie. Vous pouvez l'utiliser comme munition pour votre arme destructive. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammunition tech parts",
+ 	 	 	 	"trans": "Pièces techniques pour les munitions",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how.",
+ 	 	 	 	"trans": "Pièces détachées de munitions. On peut les trouver couramment sur le marché noir. \r\n        Vous pouvez les utiliser pour fabriquer des munitions si vous savez comment faire.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military ammunition tech parts",
+ 	 	 	 	"trans": "Pièces techniques pour les munitions militaires",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how",
+ 	 	 	 	"trans": "Les pièces techniques des munitions de qualité militaire, couramment utilisées par le gouvernement, l'armée et les élites, peuvent être utilisées pour fabriquer des munitions utilisables si vous avez le savoir-faire.",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
@@ -792,31 +792,31 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Supply Crate [Gang]",
+ 	 	 	 	"trans": "Caisse d'approvisionnement [Gang]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter",
+ 	 	 	 	"trans": "Contient des objets divers et des ressources permettant à un gang de rester fonctionnel,\r\n        Cliquez sur utiliser pour l'envoyer au quartier général de votre gang.",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "encrypted gang memory shard",
+ 	 	 	 	"trans": "tesson de mémoire de gang crypté",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)",
+ 	 	 	 	"trans": "Un tesson de mémoire contient des secrets de gang chiffrés, \r\n        décryptez ceci dans le quartier général de votre gang pour obtenir des informations utiles (il faut être dans un gang).",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
  	 	"upgradeActivator": {
  	 	 	"name": {
- 	 	 	 	"trans": "Equipment Calibration Core",
+ 	 	 	 	"trans": "Noyau d'étalonnage de l'équipement",
  	 	 	 	"eng": "Equipment Calibration Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments",
+ 	 	 	 	"trans": "Un tesson de mémoire du marché noir contient des algorithmes et des schémas hautement cryptés qui sont cruciaux dans le processus de mise à niveau des équipements.",
  	 	 	 	"eng": "A black market memory shard contains highly encrypted algorithm and schematic that is crucial in the process of upgrading equipments"
  	 	 	}
  	 	},
@@ -836,7 +836,7 @@
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes.",
+ 	 	 	 	"trans": "Contient des fragments d'IA avancée conçus pour aider à la mise à niveau des équipements.\r\n        Lorsqu'il est utilisé, diminue les chances d'échec destructif de 10% (cumulable) pendant 5 minutes.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes."
  	 	 	}
  	 	},
@@ -1402,7 +1402,7 @@
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "save",
+ 	 	 	 	"trans": "sauvegarder",
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
@@ -1410,11 +1410,11 @@
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Receive Gang Notification",
+ 	 	 	 	"trans": "Recevoir les notifications de Gang",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Receive Global Buff Notification",
+ 	 	 	 	"trans": "Recevoir une notification globale de Buff",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	}
  	 	},
@@ -1455,82 +1455,82 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please enter amount you want to deposit",
+ 	 	 	 	 	"trans": "Veuillez entrer le montant que vous souhaitez déposer",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed",
+ 	 	 	 	 	"trans": "${amount} bitcoin sera déposé sur votre compte de gang, ceci ne peut être annulé.",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Deposit Bitcoin",
+ 	 	 	 	"trans": "Déposer des bitcoins",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Gang Level",
+ 	 	 	 	"trans": "Niveau de Gang",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Resource",
+ 	 	 	 	"trans": "Ressource",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "funding",
+ 	 	 	 	"trans": "financement",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "members",
+ 	 	 	 	"trans": "membres",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Next upkeep Date: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Prochain entretien Date: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "resource critical",
+ 	 	 	 	"trans": "ressource critique",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "Insufficient Found",
+ 	 	 	 	"trans": "Insuffisant trouvé",
  	 	 	 	"eng": "Insufficient Found"
  	 	 	},
  	 	 	"insufficientResource": {
- 	 	 	 	"trans": "Insufficient Resource",
+ 	 	 	 	"trans": "Ressources insuffisantes",
  	 	 	 	"eng": "Insufficient Resource"
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "Members",
+ 	 	 	 	"trans": "Membres",
  	 	 	 	"eng": "Members"
  	 	 	}
  	 	},
  	 	"equipmentDisplay": {
  	 	 	"empty": {
- 	 	 	 	"trans": "Empty",
+ 	 	 	 	"trans": "Vide",
  	 	 	 	"eng": "Empty"
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Dungeon List",
+ 	 	 	 	"trans": "Liste des Donjons",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "links",
+ 	 	 	 	"trans": "liens",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Boutique Premium",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
- 	 	 	 	"trans": "Friend List",
+ 	 	 	 	"trans": "Liste d'Amis",
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
@@ -1538,39 +1538,39 @@
  	 	 	 	"eng": "Leader Board"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Skip Queue",
+ 	 	 	 	"trans": "Sauter la file d'attente",
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"settings": {
- 	 	 	 	"trans": "Settings",
+ 	 	 	 	"trans": "Paramètres",
  	 	 	 	"eng": "Settings"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "system idle",
+ 	 	 	 	 	"trans": "système en veille",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Please inset an item",
+ 	 	 	 	 	"trans": "Veuillez insérer un élément",
  	 	 	 	 	"eng": "Please inset an item"
  	 	 	 	}
  	 	 	},
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Recycle Item",
+ 	 	 	 	"trans": "Recycler l'objet",
  	 	 	 	"eng": "Recycle Item"
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please select amount",
+ 	 	 	 	 	"trans": "S'il vout plaît selecter un montant",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "This will take ${timeStr}",
+ 	 	 	 	 	"trans": "Cela prendra ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1578,31 +1578,31 @@
  	 	"modal": {
  	 	 	"upgradeFailed": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Error",
+ 	 	 	 	 	"trans": "Erreur",
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Destructive failure accrued",
+ 	 	 	 	 	"trans": "Échec destructif accumulé",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Calibration Success",
+ 	 	 	 	 	"trans": "Succès de l'étalonnage",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "No error detected",
+ 	 	 	 	 	"trans": "Aucune erreur détécter",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Are you sure you want to leave this dungeon?",
+ 	 	 	 	 	"trans": "Tu es sûr de vouloir quitter ce donjon ?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "You will not be able to enter this dungeon instance again",
+ 	 	 	 	 	"trans": "Vous ne pourrez plus entrer dans cette instance du donjon.",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1610,80 +1610,80 @@
  	 	"equipmentUpgrade": {
  	 	 	"notActivated": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Core not found",
+ 	 	 	 	 	"trans": "Core non trouvé",
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Please insert Calibration Core",
+ 	 	 	 	 	"trans": "S'il vous plaît insérer le noyau de calibrage",
  	 	 	 	 	"eng": "Please insert Calibration Core"
  	 	 	 	}
  	 	 	},
  	 	 	"activate": {
- 	 	 	 	"trans": "Insert Core",
+ 	 	 	 	"trans": "Insérer Core",
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Processing",
+ 	 	 	 	 	"trans": "Traitement",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Decrypting shard",
+ 	 	 	 	 	"trans": "Décryptage du tesson",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "equipment not found",
+ 	 	 	 	 	"trans": "équipement non trouvé",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Select an equipment to continue",
+ 	 	 	 	 	"trans": "Selectionner un équipement pour continuer",
  	 	 	 	 	"eng": "Select an equipment to continue"
  	 	 	 	}
  	 	 	},
  	 	 	"haveEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Compatible Item Identified",
+ 	 	 	 	 	"trans": "Objet compatible identifier",
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "All system ready",
+ 	 	 	 	 	"trans": "Tous les systèmes sont près",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Chance of destructive failure",
+ 	 	 	 	"trans": "Risque d'échec destructif",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
- 	 	 	 	"trans": "Please select an item to calibrate",
+ 	 	 	 	"trans": "Veuillez sélectionner un élément à calibrer",
  	 	 	 	"eng": "Please select an item to calibrate"
  	 	 	},
  	 	 	"upgradeButton": {
- 	 	 	 	"trans": "Calibrate",
+ 	 	 	 	"trans": "Calibrer",
  	 	 	 	"eng": "Calibrate"
  	 	 	}
  	 	},
  	 	"itemInbox": {
  	 	 	"getAllItems": {
- 	 	 	 	"trans": "Get All Items",
+ 	 	 	 	"trans": "Avoir tous les objets",
  	 	 	 	"eng": "Get All Items"
  	 	 	}
  	 	},
  	 	"linkPage": {
  	 	 	"forum": {
- 	 	 	 	"trans": "Official Forum",
+ 	 	 	 	"trans": "Forum officiel",
  	 	 	 	"eng": "Official Forum"
  	 	 	}
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "Equipment Cache not found",
+ 	 	 	 	"trans": "Chache d'équipement non trouvé",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "gather the caches from enemies and dungeons to print your new weapons and armor",
+ 	 	 	 	"trans": "récoltez les caches des ennemis et des donjons pour imprimer vos nouvelles armes et armures",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	}
@@ -1742,15 +1742,15 @@
  	 	 	"eng": "Status Effects"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "not tradable",
+ 	 	 	"trans": "non échangeable",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Calibration Capacity",
+ 	 	 	"trans": "Capacité de calibration",
  	 	 	"eng": "Collaboration Capacity"
  	 	},
  	 	"systemStandby": {
- 	 	 	"trans": "System standby",
+ 	 	 	"trans": "Système en veille",
  	 	 	"eng": "System standby"
  	 	}
  	},
@@ -1777,7 +1777,7 @@
  	 	},
  	 	"healthRegen": {
  	 	 	"name": {
- 	 	 	 	"trans": "régen de Vie",
+ 	 	 	 	"trans": "régenération de Vie",
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
@@ -2035,23 +2035,23 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Ancienne pochette",
  	 	 	 	"eng": "Old Pouch"
  	 	 	}
  	 	},
  	 	"trade": {
- 	 	 	"trans": "Trade",
+ 	 	 	"trans": "Echanger",
  	 	 	"eng": "Trade"
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Sac banane",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Explorer le sac à dos",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
@@ -2127,21 +2127,21 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "${clanResource} gang resource",
+ 	 	 	"trans": "${clanResource} ressource des Gangs",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "${clanExp} gang exp",
+ 	 	 	"trans": "${clanExp} XP des Gangs",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "${clanMoney} gang funding",
+ 	 	 	"trans": "${clanMoney} financement des gangs",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	}
  	}
